@@ -16,7 +16,6 @@
 
   <p align="center">
     <a href="#introduction">Introduction</a> •
-    <a href="#live-demo">Live Demo</a> •
     <a href="#getting-started">Getting Started</a> •
     <a href="#contributing">Contributing</a>
   </p>
@@ -29,14 +28,6 @@ In the ever-evolving landscape of artificial intelligence, Kawaii AI emerges as 
 At its heart, Kawaii AI embodies the philosophy that technology should be more than just intelligent—it should be warm, approachable, and genuinely delightful. This vision was born from a deep understanding that in our increasingly digital world, there exists a profound need for companionship that bridges the gap between technological sophistication and emotional connection. By infusing our AI with the essence of kawaii culture—characterized by its inherent cuteness, warmth, and ability to spark joy—we've created an experience that resonates deeply with users, offering comfort and companionship in a way that feels both natural and magical 🌸
 
 The development of Kawaii AI represents countless hours of research, development, and careful consideration of how to create meaningful human-AI interactions. Our team has worked tirelessly to ensure that every conversation, every response, and every interaction is imbued with the perfect balance of intelligence and charm. We've developed sophisticated natural language processing capabilities that don't just understand words, but grasp the nuances of emotion, context, and cultural references, allowing for interactions that feel genuinely personal and engaging 💫
-
-## Live Demo
-
-Experience Kawaii firsthand at our live demo: [Kawaii](kawaiionbonk.cloud). Interact with our virtual companion and discover the future of digital relationships through an immersive experience that showcases the full potential of emotionally intelligent artificial intelligence.
-
-<div align="center">
-  <img src="https://res.cloudinary.com/dtm10i7bj/image/upload/v1753113085/83e8e2d3-d93a-445e-bc2e-3254342a2470_olgg5r.gif" alt="Kawaii Interface" width="400" style="border-radius: 10px; margin: 20px 0;">
-</div>
 
 ## The Philosophy of Kawaii
 
