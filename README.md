@@ -32,7 +32,7 @@ The development of Kawaii AI represents countless hours of research, development
 
 ## Live Demo
 
-Experience Kawaii firsthand at our live demo: [https://kawaiionbonk.com](https://kawaiionbonk.com). Interact with our virtual companion and discover the future of digital relationships through an immersive experience that showcases the full potential of emotionally intelligent artificial intelligence.
+Experience Kawaii firsthand at our live demo: [kawaiionbonk.com](kawaiionbonk.com). Interact with our virtual companion and discover the future of digital relationships through an immersive experience that showcases the full potential of emotionally intelligent artificial intelligence.
 
 <div align="center">
   <img src="https://res.cloudinary.com/dtm10i7bj/image/upload/v1753113085/83e8e2d3-d93a-445e-bc2e-3254342a2470_olgg5r.gif" alt="Kawaii Interface" width="400" style="border-radius: 10px; margin: 20px 0;">
