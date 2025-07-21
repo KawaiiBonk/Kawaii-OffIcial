@@ -1,7 +1,7 @@
 # <div align="center"> Kawaii 🌸
 
 <div align="center">
-  <img src="https://res.cloudinary.com/dtm10i7bj/image/upload/v1753113083/ba83df97-fc73-4f2e-88b9-09f14ad98c73_kg6uvj.jpg" alt="Kawaii Logo" width="300" height="300" style="border-radius: 20px;">
+  <img src="https://res.cloudinary.com/dtm10i7bj/image/upload/v1753113083/ba83df97-fc73-4f2e-88b9-09f14ad98c73_kg6uvj.jpg" alt="Kawaii Logo" width="200" height="200" style="border-radius: 20px;">
 
   <p align="center">
     <a href="https://x.com/kawaiiagent_" target="_blank">
