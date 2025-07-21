@@ -4,7 +4,7 @@
   <img src="https://res.cloudinary.com/dtm10i7bj/image/upload/v1753113083/ba83df97-fc73-4f2e-88b9-09f14ad98c73_kg6uvj.jpg" alt="Kawaii Logo" width="200" height="200" style="border-radius: 20px;">
 
   <p align="center">
-    <a href="https://x.com/GirlfriendAIX" target="_blank">
+    <a href="https://x.com/kawaiiagent_" target="_blank">
       <img src="https://img.shields.io/badge/Follow_on_X-black?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X">
     </a>
     <a href="https://github.com/KawaiiAIOfficial/Kawaii-AI/blob/main/LICENSE" target="_blank">
@@ -126,12 +126,6 @@ For technical support, users can contact us directly via email, create issues on
 This project is licensed under the MIT License, which allows for broad use, modification, and distribution while maintaining appropriate attribution. The license details can be found in the LICENSE file in the repository, and we encourage users to review the terms to understand their rights and responsibilities when using or contributing to Kawaii.
 
 We are committed to maintaining high standards of legal compliance, including GDPR compliance for data protection, respect for intellectual property rights, adherence to platform terms of service, and transparent communication about our practices and policies.
-
-## Contact and Connect
-
-We welcome communication from users, developers, researchers, media representatives, and anyone interested in the future of virtual companionship. You can reach us through our website at kawaii-ai.com, email us at hello@kawaii-ai.com for general inquiries, contact support@kawaii-ai.com for technical assistance, or reach out to press@kawaii-ai.com for media inquiries.
-
-Stay connected with us through our social media channels including X (Twitter) @GirlfriendAIX, Instagram @KawaiiAIOfficial, and LinkedIn at Kawaii. These channels provide regular updates, insights into our development process, community highlights, and opportunities to engage with our team and community.
 
 ---
 
