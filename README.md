@@ -4,7 +4,7 @@
   <img src="https://res.cloudinary.com/dtm10i7bj/image/upload/v1753113083/ba83df97-fc73-4f2e-88b9-09f14ad98c73_kg6uvj.jpg" alt="Kawaii Logo" width="200" height="200" style="border-radius: 20px;">
 
   <p align="center">
-    <a href="https://x.com/kawaiiagent_" target="_blank">
+    <a href="https://x.com/KAWAIIagentX" target="_blank">
       <img src="https://img.shields.io/badge/Follow_on_X-black?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X">
     </a>
     <a href="https://github.com/KawaiiAIOfficial/Kawaii-AI/blob/main/LICENSE" target="_blank">
